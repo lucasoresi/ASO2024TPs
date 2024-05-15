@@ -10,4 +10,6 @@ Trabajo Practico N°2, arquitectura.
 	
 	b- Una vez ejecutado el programa con las lineas 11, 12, 19 y 20 comentadas, puedo notar que el valor final es siempre 0 y el tiempo de ejecucion es de 0.015 segundos aproximadamente, mientras que descomentando dichas lineas el valor final deja de ser 0 y el tiempo de ejecucion pasa a ser de 2.0115 segundos aproximadamente, variando pero no en gran escala. Esta variacion se debe a que habian dos bucles for justamente comentados los cuales no hacian nada realmente relevante pero sumaban tiempo de ejecucion al programa.
 
-	[INCISO A]
+	[INCISO A](https://github.com/lucasoresi/ASO2024TPs/raw/main/TP3/puzzleResuelto.c)
+
+	[INCISO B]()
