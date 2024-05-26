@@ -14,3 +14,6 @@ Trabajo Practico N°2, arquitectura.
 	[INCISO A](https://github.com/lucasoresi/ASO2024TPs/raw/main/TP3/puzzleResuelto.c)
 
 	[INCISO B](https://github.com/lucasoresi/ASO2024TPs/blob/main/TP3/Punto%202B.pdf)
+
+
+## [Parcial](https://github.com/lucasoresi/ASO2024TPs/blob/main/Parcial/enlace%20video.txt)
